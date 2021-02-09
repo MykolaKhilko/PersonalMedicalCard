@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JYaB9W5FAUeuwBWXC3OdZ9a36HtlVgy3OJotzs6MD158EvDZTsXbHMIHTB++bSVWLX7MWeojG98EnQgHXAnW4Q==",
+  "dgSpecHash": "EoJbdpwZjkdGYL5o9zsYN/G0SC33sCPt4sRJ7KJIRxjSxEn5Y4VQ2Pnj+xotr6FnO0VkriJ7xCXloTTeXOGlgw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nick\\Desktop\\MyProjects\\PMC\\PersonalMedicalCard\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Project\\PersonalMedicalCard\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

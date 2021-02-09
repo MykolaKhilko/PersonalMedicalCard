@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nick\\Desktop\\MyProjects\\PMC\\PersonalMedicalCard\\DAL\\DAL.csproj": {}
+    "C:\\Project\\PersonalMedicalCard\\DAL\\DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nick\\Desktop\\MyProjects\\PMC\\PersonalMedicalCard\\DAL\\DAL.csproj": {
+    "C:\\Project\\PersonalMedicalCard\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nick\\Desktop\\MyProjects\\PMC\\PersonalMedicalCard\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Project\\PersonalMedicalCard\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\Nick\\Desktop\\MyProjects\\PMC\\PersonalMedicalCard\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\Nick\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nick\\Desktop\\MyProjects\\PMC\\PersonalMedicalCard\\DAL\\obj\\",
+        "projectPath": "C:\\Project\\PersonalMedicalCard\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\Ivanka\\.nuget\\packages\\",
+        "outputPath": "C:\\Project\\PersonalMedicalCard\\DAL\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Nick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ivanka\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
