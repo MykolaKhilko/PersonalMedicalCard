@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FZjYopG+gXNvTL5MgLM9v6HG92PghZIzDO8mZs73/efoy0+gQoKNVxFgFSfK1K4qACAiR7YQMxPhze9Cfaj4AA==",
+  "dgSpecHash": "6s1U/lDS+71rOlelDLJJDHydu0WRfve1tecXO0Yut3V+WDAP5g4teheOvAUj9Ak9pe0RcG5VxDWOLZ9b1OyPkw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nick\\Desktop\\MyProjects\\PMC\\PersonalMedicalCard\\DAL\\DAL.csproj",
+  "projectFilePath": "C:\\Project\\PersonalMedicalCard\\DAL\\DAL.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

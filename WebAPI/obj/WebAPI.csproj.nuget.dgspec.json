@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nick\\Desktop\\MyProjects\\PMC\\PersonalMedicalCard\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Project\\PersonalMedicalCard\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nick\\Desktop\\MyProjects\\PMC\\PersonalMedicalCard\\WebAPI\\WebAPI.csproj": {
+    "C:\\Project\\PersonalMedicalCard\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nick\\Desktop\\MyProjects\\PMC\\PersonalMedicalCard\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Project\\PersonalMedicalCard\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\Nick\\Desktop\\MyProjects\\PMC\\PersonalMedicalCard\\WebAPI\\WebAPI.csproj",
-        "packagesPath": "C:\\Users\\Nick\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nick\\Desktop\\MyProjects\\PMC\\PersonalMedicalCard\\WebAPI\\obj\\",
+        "projectPath": "C:\\Project\\PersonalMedicalCard\\WebAPI\\WebAPI.csproj",
+        "packagesPath": "C:\\Users\\Ivanka\\.nuget\\packages\\",
+        "outputPath": "C:\\Project\\PersonalMedicalCard\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Nick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ivanka\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

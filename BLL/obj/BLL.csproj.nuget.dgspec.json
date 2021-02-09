@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nick\\Desktop\\MyProjects\\PMC\\PersonalMedicalCard\\BLL\\BLL.csproj": {}
+    "C:\\Project\\PersonalMedicalCard\\BLL\\BLL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nick\\Desktop\\MyProjects\\PMC\\PersonalMedicalCard\\BLL\\BLL.csproj": {
+    "C:\\Project\\PersonalMedicalCard\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nick\\Desktop\\MyProjects\\PMC\\PersonalMedicalCard\\BLL\\BLL.csproj",
+        "projectUniqueName": "C:\\Project\\PersonalMedicalCard\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "C:\\Users\\Nick\\Desktop\\MyProjects\\PMC\\PersonalMedicalCard\\BLL\\BLL.csproj",
-        "packagesPath": "C:\\Users\\Nick\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nick\\Desktop\\MyProjects\\PMC\\PersonalMedicalCard\\BLL\\obj\\",
+        "projectPath": "C:\\Project\\PersonalMedicalCard\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\Ivanka\\.nuget\\packages\\",
+        "outputPath": "C:\\Project\\PersonalMedicalCard\\BLL\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Nick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ivanka\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
